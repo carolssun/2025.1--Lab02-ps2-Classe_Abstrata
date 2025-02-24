@@ -1,3 +1,4 @@
+// Carolina Sun R. N. Castilho - 10386494
 import java.util.List;
 
 public class CampanhaRedeSocial extends Campanha {
